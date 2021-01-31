@@ -1,6 +1,6 @@
 # animated_login_page
 
-A simple animated login page in flutter framework.<br>
+An animated login page in flutter framework.<br>
 
 **Packages we are using:**
 - [flare_flutter](https://pub.dev/packages/flare_flutter)
