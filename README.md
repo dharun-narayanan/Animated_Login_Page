@@ -1,4 +1,4 @@
-# login_page
+# animated_login_page
 
 A simple login page in flutter framework.<br>
 
