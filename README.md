@@ -9,7 +9,7 @@ An animated login page in flutter framework.<br>
 
 ### UI
 
-![App UI](/UI.png)
+![App UI](/UI.jpeg)
 
 ## Created By
  [DHARUN NARAYANAN L K](https://dharun-narayanan.github.io/me/) <br/>
